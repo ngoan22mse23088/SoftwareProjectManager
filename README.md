@@ -1,1 +1,2 @@
-# Software Project Manager - Dr.NguyenNgocTruongHuy
+# SoftwareProjectManager
+Software Project Manager - Dr.NguyenNgocTruongHuy
